@@ -1,1 +1,1 @@
-cosnt  = require("./tareas.json")
+const tareas = require('./tareas');
